@@ -1,4 +1,4 @@
-# conversor-de-runas
+# Conversor de Runas
 App Android na linguagem kotlin que faz a conversão de letras e palavras do alfabeto latino para as Runas (Elder Futhark).
 # Kotlin
 # Android Studio
